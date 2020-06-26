@@ -1,0 +1,16 @@
+quizzes:
+    -
+        title: Pro Mascots - Easy
+        description: 'NBA, NFL, NHL, and MLB Pro Team Mascot Quiz - Easy'
+        id: mascots-pro-easy
+    -
+        title: Pro Mascots - Medium
+        description: 'NBA, NFL, NHL, and MLB Pro Team Mascot Quiz - Medium'
+        id: mascots-pro-medium
+    -
+        title: Pro Mascots - Hard
+        description: 'NBA, NFL, NHL, and MLB Pro Team Mascot Quiz - Hard'
+        id: mascots-pro-hard
+id: mascots-pro
+img: mascots-pro.png
+title: Pro Mascot Challenge

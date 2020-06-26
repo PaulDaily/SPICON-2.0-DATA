@@ -1,0 +1,16 @@
+quizzes:
+    -
+        title: College Mascots - Easy
+        description: 'College Team Mascot Quiz - Easy'
+        id: mascots-college-easy
+    -
+        title: College Mascots - Medium
+        description: 'College Team Mascot Quiz - Medium'
+        id: mascots-college-medium
+    -
+        title: College Mascots - Hard
+        description: 'College Team Mascot Quiz - Hard'
+        id: mascots-college-hard
+id: mascots-college
+img: mascots-college.png
+title: College Mascot Challenge
