@@ -1,0 +1,286 @@
+{
+  "quizTitle": "College Mascot Quiz - Easy",
+  "quizSynopsis": "College Team Mascot Quiz - Easy",
+  "questions": [
+    {
+      "question": "Which team's mascot is a \"Badger\"?",
+      "questionType": "photo",
+      "answers": [
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Washington_Huskies.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_WestVirginia_Mountaineers.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Wisconsin_Badgers.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_WakeForest_DemonDeacons.png"  
+      ],
+      "correctAnswer": "3",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which team's mascot is a \"Husky\"?",
+      "questionType": "photo",
+      "answers": [
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Washington_Huskies.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Xavier_Muskateers.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_WestVirginia_Mountaineers.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_YoungstownState_Penguins.png"  
+      ],
+      "correctAnswer": "1",
+      "messageForCorrectAnswer": "Nice shot!",
+      "messageForInorrectAnswer": "Better luck next time.",
+      "point": "10"
+    },
+    {
+      "question": "Which team's mascot is a \"Wildcat\"?",
+      "questionType": "photo",
+      "answers": [
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_UTPB_Falcons.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Villanova_Wildcats.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Vermont_Catamounts.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_WashingtonState_Cougars.png"  
+      ],
+      "correctAnswer": "2",
+      "messageForCorrectAnswer": "Nice shot!",
+      "messageForInorrectAnswer": "Better luck next time.",
+      "point": "10"
+    },
+    {
+      "question": "Which team's mascot is a \"Ute\"?",
+      "questionType": "photo",
+      "answers": [
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Vanderbilt_Commodores.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Utah_Utes.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_UNLV_Rebels.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_UtahState_Aggies.png"  
+      ],
+      "correctAnswer": "2",
+      "messageForCorrectAnswer": "Nice shot!",
+      "messageForInorrectAnswer": "Better luck next time.",
+      "point": "10"
+    },
+    {
+      "question": "Which team's mascot is a \"Bruin\"?",
+      "questionType": "photo",
+      "answers": [
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Valparaiso_Crusaders.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_TCU_HornedFrogs.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UCLA_Bruins.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Syracuse_Orange.png"  
+      ],
+      "correctAnswer": "3",
+      "messageForCorrectAnswer": "Nice shot!",
+      "messageForInorrectAnswer": "Better luck next time.",
+      "point": "10"
+    },
+    {
+      "question": "Which team's mascot is an \"Aggie\"?",
+      "questionType": "photo",
+      "answers": [
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_StJohns_RedStorm.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_TexasA&M_Aggies.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_StCloudState_Huskies.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_SouthFlorida_Bulls.png"  
+      ],
+      "correctAnswer": "2",
+      "messageForCorrectAnswer": "Nice shot!",
+      "messageForInorrectAnswer": "Better luck next time.",
+      "point": "10"
+    },
+    {
+      "question": "Which team's mascot is a \"Volunteer\"?",
+      "questionType": "photo",
+      "answers": [
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_SouthCarolinaState_Bulldogs.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_SIUEdwardsville_Cougars.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Tennessee_Volunteers.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Rice_Owls.png"  
+      ],
+      "correctAnswer": "3",
+      "messageForCorrectAnswer": "Nice shot!",
+      "messageForInorrectAnswer": "Better luck next time.",
+      "point": "10"
+    },
+    {
+      "question": "Which team's mascot is a \"Trojan\"?",
+      "questionType": "photo",
+      "answers": [
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_NorthCarolinaState_Wolfpack.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_NothernKentucky_Norse.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_RPI_Engineers.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_SouthernCalifornia_Trojans.png"  
+      ],
+      "correctAnswer": "4",
+      "messageForCorrectAnswer": "Nice shot!",
+      "messageForInorrectAnswer": "Better luck next time.",
+      "point": "10"
+    },
+    {
+      "question": "Which team's mascot is an \"Aztec\"?",
+      "questionType": "photo",
+      "answers": [
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Mississippi_Rebels.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_NewMexicoState_Aggies.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_NorthCarolinaA&T_Aggies.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_SanDiegoState_Aztecs.png"  
+      ],
+      "correctAnswer": "4",
+      "messageForCorrectAnswer": "Nice shot!",
+      "messageForInorrectAnswer": "Better luck next time.",
+      "point": "10"
+    },
+    {
+      "question": "Which team's mascot is a \"Duck\"?",
+      "questionType": "photo",
+      "answers": [
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_EasternMichigan_Eagles.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Duquesne_Dukes.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Oregon_Ducks.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_Manhattan_Jaspers.png"  
+      ],
+      "correctAnswer": "3",
+      "messageForCorrectAnswer": "Nice shot!",
+      "messageForInorrectAnswer": "Better luck next time.",
+      "point": "10"
+    },
+    {
+      "question": "Which team's mascot is a \"Cowboy\"?",
+      "questionType": "photo",
+      "answers": [
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Colgate_Raiders.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Albany_GreatDanes.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_OklahomaState_Cowboys.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_TexasArlington_Mavericks.png"  
+      ],
+      "correctAnswer": "3",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which team's mascot is a \"Sooner\"?",
+      "questionType": "photo",
+      "answers": [
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Oklahoma_Sooners.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_AlabamaA&M_Bulldogs.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Penn_Quakers.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_Niagra_PurpleEagles.png"  
+      ],
+      "correctAnswer": "1",
+      "messageForCorrectAnswer": "Nice shot!",
+      "messageForInorrectAnswer": "Better luck next time.",
+      "point": "10"
+    },
+    {
+      "question": "Which team's mascot are \"Fighting Irish\"?",
+      "questionType": "photo",
+      "answers": [
+        "https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_NJIT_Highlanders.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_NotreDame_FightingIrish.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_SacramentoState_Hornets.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_NorfolkState_Spartans.png"  
+      ],
+      "correctAnswer": "2",
+      "messageForCorrectAnswer": "Nice shot!",
+      "messageForInorrectAnswer": "Better luck next time.",
+      "point": "10"
+    },
+    {
+      "question": "Which team's mascot is a \"Falcon\"?",
+      "questionType": "photo",
+      "answers": [
+        "https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_StBonaventure_Bonnies.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_AirForce_Falcons.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_AbileneChristian_Wildcats.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_TennesseeMartin_Skyhawks.png"  
+      ],
+      "correctAnswer": "2",
+      "messageForCorrectAnswer": "Nice shot!",
+      "messageForInorrectAnswer": "Better luck next time.",
+      "point": "10"
+    },
+    {
+      "question": "Which team's mascot is \"Big Red\"?",
+      "questionType": "photo",
+      "answers": [
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_SouthDakota_Coyotes.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_SMU_Mustangs.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Cornell_BigRed.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Wisconsin_Badgers.png"  
+      ],
+      "correctAnswer": "3",
+      "messageForCorrectAnswer": "Nice shot!",
+      "messageForInorrectAnswer": "Better luck next time.",
+      "point": "10"
+    },
+    {
+      "question": "Which team's mascot is a \"Blue Devil\"?",
+      "questionType": "photo",
+      "answers": [
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Pittsburgh_Panthers.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Duke_BlueDevils.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_SanDiego_Toreros.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Villanova_Wildcats.png"  
+      ],
+      "correctAnswer": "2",
+      "messageForCorrectAnswer": "Nice shot!",
+      "messageForInorrectAnswer": "Better luck next time.",
+      "point": "10"
+    },
+    {
+      "question": "Which team's mascot is a \"Hoya\"?",
+      "questionType": "photo",
+      "answers": [
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Southern_Jaguars.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_PurdueFortWayne_Mastodons.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Georgetown_Hoyas.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_MontanaState_Bobcats.png"  
+      ],
+      "correctAnswer": "3",
+      "messageForCorrectAnswer": "Nice shot!",
+      "messageForInorrectAnswer": "Better luck next time.",
+      "point": "10"
+    },
+    {
+      "question": "Which team's mascot is a \"Warrior\"?",
+      "questionType": "photo",
+      "answers": [
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_NorthDakotaState_Bison.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_NothernKentucky_Norse.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_NewOrleans_Privateers.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Hawaii_Warriors.png"  
+      ],
+      "correctAnswer": "4",
+      "messageForCorrectAnswer": "Nice shot!",
+      "messageForInorrectAnswer": "Better luck next time.",
+      "point": "10"
+    },
+    {
+      "question": "Which team's mascot are \"Fighting Illini\"?",
+      "questionType": "photo",
+      "answers": [
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_NorthernIowa_Panthers.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_NichollsState_Colonels.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_NewMexico_Lobos.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Illinois_FightingIllini.png"  
+      ],
+      "correctAnswer": "4",
+      "messageForCorrectAnswer": "Nice shot!",
+      "messageForInorrectAnswer": "Better luck next time.",
+      "point": "10"
+    },
+    {
+      "question": "Which team's mascot is a \"Hoosier\"?",
+      "questionType": "photo",
+      "answers": [
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_StonyBrook_Seawolves.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_NorthCarolina_Tarheels.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Indiana_Hoosiers.png", 
+        "https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_MurrayState_Racers.png"  
+      ],
+      "correctAnswer": "3",
+      "messageForCorrectAnswer": "Nice shot!",
+      "messageForInorrectAnswer": "Better luck next time.",
+      "point": "10"
+    }
+  ]
+}

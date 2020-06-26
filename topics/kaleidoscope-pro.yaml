@@ -1,0 +1,16 @@
+quizzes:
+    -
+        title: Kaleidoscope Pro Logo Quest - Easy
+        description: 'Kaleidoscope Pro Logo Quest Quiz - Easy'
+        id: kaleidoscope-pro-easy
+    -
+        title: Kaleidoscope Pro Logo Quest - Medium
+        description: 'Kaleidoscope Pro Logo Quest Quiz - Medium'
+        id: kaleidoscope-pro-medium
+    -
+        title: Kaleidoscope Pro Logo Quest - Hard
+        description: 'Kaleidoscope Pro Logo Quest Quiz - Hard'
+        id: kaleidoscope-pro-hard
+id: kaleidoscope-pro
+img: kaleidoscope-pro.png
+title: Kaleidoscope Pro Logo Quest

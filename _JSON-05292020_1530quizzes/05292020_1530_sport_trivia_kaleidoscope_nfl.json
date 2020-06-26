@@ -1,0 +1,246 @@
+{
+  "quizTitle": "NFL Kaleidoscope Quiz",
+  "quizSynopsis": "NFL Kaleidoscope Logo Quiz",
+  "questions": [
+    {
+      "question": "Which NFL team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/nfl/nfl_Cincinnati_Bengals_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Cincinnati Bengals",
+        "Cleveland Browns",
+        "Denver Broncos",
+        "Chicago Bears"
+      ],
+      "correctAnswer": "1",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which NFL team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/nfl/nfl_Miami_Dophins_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Los Angeles Chargers",
+        "Philadelphia Eagles",
+        "Seattle Seahawks",
+        "Miami Dolphins"
+      ],
+      "correctAnswer": "4",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which NFL team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/nfl/nfl_TampaBay_Buccaneers_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "San Francisco 49ers",
+        "Atlanta Falcons",
+        "Tampa Bay Buccaneers",
+        "Houston Texans"
+      ],
+      "correctAnswer": "3",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which NFL team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/nfl/nfl_Jacksonville_Jaguars_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Dallas Cowboys",
+        "Philadelphia Eagles",
+        "Carolina Panthers",
+        "Jacksonville Jaguars"
+      ],
+      "correctAnswer": "4",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which NFL team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/nfl/nfl_NewEngland_Patriots_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Buffalo Bills",
+        "Houston Texans",
+        "Tennessee Titans",
+        "New England Patriots"
+      ],
+      "correctAnswer": "4",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which NFL team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/nfl/nfl_LasVegas_Raiders_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Carolina Panthers",
+        "Las Vegas Raiders",
+        "Philadelphia Eagles",
+        "New Orleans Saints"
+      ],
+      "correctAnswer": "2",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which NFL team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/nfl/nfl_GreenBay_Packers_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Green Bay Packers",
+        "Miami Dolphins",
+        "New York Jets",
+        "Seattle Seahawks"
+      ],
+      "correctAnswer": "1",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which NFL team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/nfl/nfl_Tennessee_Titans_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "New England Patriots",
+        "Buffalo Bills",
+        "Tennessee Titans",
+        "Detroit Lions"
+      ],
+      "correctAnswer": "3",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which NFL team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/nfl/nfl_Baltimore_Ravens_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Washington Redskins",
+        "Jacksonville Jaguars",
+        "New Orleans Saints",
+        "Baltimore Ravens"
+      ],
+      "correctAnswer": "4",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which NFL team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/nfl/nfl_Atlanta_Falcons_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Atlanta Falcons",
+        "Kansas City Chiefs",
+        "San Francisco 49ers",
+        "Washington Redskins"
+      ],
+      "correctAnswer": "1",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which NFL team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/nfl/nfl_Philadelphia_Eagles_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Philadelphia Eagles",
+        "New York Jets",
+        "Seattle Seahawks",
+        "Los Angeles Rams"
+      ],
+      "correctAnswer": "1",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which NFL team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/nfl/nfl_Arizona_Cardinals_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Tampa Bay Buccaneers",
+        "Arizona Cardinals",
+        "Washington Redskins",
+        "San Francisco 49ers"
+      ],
+      "correctAnswer": "2",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which NFL team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/nfl/nfl_Denver_Broncos_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Chicago Bears",
+        "Indianapolis Colts",
+        "Denver Broncos",
+        "Cleveland Browns"
+      ],
+      "correctAnswer": "3",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which NFL team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/nfl/nfl_Minnesota_Vikings_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Washington Redskins",
+        "Baltimore Ravens",
+        "New Orleans Saints",
+        "Minnesota Vikings"
+      ],
+      "correctAnswer": "4",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which NFL team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/nfl/nfl_Seattle_Seahawks_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "New York Giants",
+        "Seattle Seahawks",
+        "Dallas Cowboys",
+        "Indianapolis Colts"
+      ],
+      "correctAnswer": "2",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    }
+  ]
+}

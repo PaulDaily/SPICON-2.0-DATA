@@ -1,0 +1,16 @@
+quizzes:
+    -
+        title: Pro Team Logo Matchup - Easy
+        description: 'Pro Team Logo Matchup Quiz - Easy'
+        id: logos-pro-easy
+    -
+        title: Pro Team Logo Matchup - Medium
+        description: 'Pro Team Logo Matchup Quiz - Medium'
+        id: logos-pro-medium
+    -
+        title: Pro Team Logo Matchup - Hard
+        description: 'Pro Team Logo Matchup Quiz - Hard'
+        id: logos-pro-hard
+id: logos-pro
+img: logos-pro.png
+title: Pro Team Logo Matchup

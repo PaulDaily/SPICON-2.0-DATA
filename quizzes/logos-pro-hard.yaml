@@ -1,0 +1,28 @@
+id: logos-pro-hard
+title: 'Pro Team Logo Matchup - Hard'
+questions:
+    -
+        text: 'What NBA team has a mascot named "Slamson the Lion"?'
+        options:
+            -
+                correct: false
+                value: 'NBA Utah Jazz'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nba/NBA_Utah_Jazz.png'
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'NBA Toronto Raptors'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nba/NBA_Toronto_Raptors.png'
+                detail: 'Better luck next time.'
+            -
+                correct: true
+                value: 'NBA Sacramento Kings'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nba/NBA_Sacramento_Kings.png'
+                detail: 'Nice shot!'
+            -
+                correct: false
+                value: 'NBA Philadelphia 76ers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nba/NBA_Philadelphia_76ers.png'
+                detail: 'Better luck next time.'
+description: 'Pro Team Logo Matchup Quiz - Hard'
+topic: logos-pro

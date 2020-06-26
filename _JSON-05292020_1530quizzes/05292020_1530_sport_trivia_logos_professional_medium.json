@@ -1,0 +1,166 @@
+{
+  "quizTitle": "Pro Logo Quiz - Medium",
+  "quizSynopsis": "NBA, NFL, NHL, and MLB Pro Team Logo Quiz - Medium",
+  "questions": [
+    {
+      "question": "What team has this logo?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/nfl_modified/NFL_Tennessee_Titans.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Minnesota Timberwolves (NBA) ",
+        "Texas Rangers (MLB)",
+        "Tennessee Titans (NFL)",
+        "Minnesota Twins (MLB)"
+      ],
+      "correctAnswer": "3",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "What team has this logo?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/nhl_modified/NHL_Arizona_Coyotes.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Minnesota Wild (NHL)",
+        "Memphis Grizzlies (NBA)",
+        "Nashville Predators (NHL)",
+        "Arizona Coyotes (NHL)"
+      ],
+      "correctAnswer": "4",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "What team has this logo?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/mlb_modified/MLB_Seattle_Mariners.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Milwaukee Brewers (MLB)",
+        "Oakland Athletics (MLB)",
+        "Seattle Mariners (MLB) ",
+        "Texas Rangers (MLB)"
+      ],
+      "correctAnswer": "3",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "What team has this logo?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/nfl_modified/NFL_Cleveland_Browns.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Cincinnati Bengals (NFL)",
+        "Chicago Bears (NFL)",
+        "Denver Broncos (NFL)",
+        "Cleveland Browns (NFL)"
+      ],
+      "correctAnswer": "4",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "What team has this logo?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/nba_modified/NBA_Washington_Wizards.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Philadelphia 76ers (NBA)",
+        "Utah Jazz (NBA)",
+        "Dallas Mavericks (NBA)",
+        "Washington Wizards (NBA)"
+      ],
+      "correctAnswer": "4",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "What team has this logo?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/mlb_modified/MLB_Milwaukee_Brewers.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Philadelphia Phillies (MLB)",
+        "Milwaukee Brewers (MLB)",
+        "San Diego Padres (MLB)",
+        "Texas Rangers (MLB)"
+      ],
+      "correctAnswer": "2",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "What team has this logo?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/nhl_modified/NHL_Boston_Bruins.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Boston Bruins (NHL)",
+        "Brooklyn Nets (NBA)",
+        "Buffalo Sabres (NHL)",
+        "Baltimore Ravens (NFL)"
+      ],
+      "correctAnswer": "1",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "What team has this logo?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/mlb_modified/MLB_Pittsburgh_Pirates.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Pittsburgh Steelers (NFL)",
+        "Nashville Predators (NHL)",
+        "Pittsburgh Pirates (MLB)",
+        "Indiana Pacers (NBA)"
+      ],
+      "correctAnswer": "3",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "What team has this logo?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/nfl_modified/NFL_Houston_Texans.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Houston Astros (MLB)",
+        "Chicago Bulls (NBA)",
+        "Nashville Predators (NHL)",
+        "Houston Texans (NFL)"
+      ],
+      "correctAnswer": "4",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "What team has this logo?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/nhl_modified/NHL_Edmonton_Oilers.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Edmonton Oilers (NHL)",
+        "New York Knicks (NBA)",
+        "Indiana Pacers (NBA)",
+        "New York Mets (MLB)"
+      ],
+      "correctAnswer": "1",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    }
+  ]
+}

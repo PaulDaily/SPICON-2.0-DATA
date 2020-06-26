@@ -1,0 +1,246 @@
+{
+  "quizTitle": "NBA Kaleidoscope Quiz",
+  "quizSynopsis": "NBA Kaleidoscope Logo Quiz",
+  "questions": [
+    {
+      "question": "Which NBA team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/nba/nba_Boston_Celtics_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Boston Celtics",
+        "Milwaukee Bucks",
+        "Cleveland Cavaliers",
+        "Minnesota Timberwolves"
+      ],
+      "correctAnswer": "1",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which NBA team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/nba/nba_Utah_Jazz_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Memphis Grizzlies",
+        "Orlando Magic",
+        "Indiana Pacers",
+        "Utah Jazz"
+      ],
+      "correctAnswer": "4",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which NBA team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/nba/nba_Portland_Trailblazers_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Washington Wizards",
+        "Detroit Pistons",
+        "Portland Trail Blazers",
+        "Miami Heat"
+      ],
+      "correctAnswer": "3",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which NBA team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/nba/nba_Orlando_Magic_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Dallas Mavericks",
+        "Orlando Magic",
+        "Memphis Grizzlies",
+        "Minnesota Timberwolves"
+      ],
+      "correctAnswer": "2",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which NBA team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/nba/nba_NewYork_Knicks_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Cleveland Cavaliers",
+        "Phoenix Suns",
+        "Oklahoma City Thunder",
+        "New York Knicks"
+      ],
+      "correctAnswer": "4",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which NBA team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/nba/nba_NewOrleans_Pelicans_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Toronto Raptors",
+        "New Orleans Pelicans",
+        "Washington Wizards",
+        "Oklahoma City Thunder"
+      ],
+      "correctAnswer": "2",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which NBA team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/nba/nba_Milwaukee_Bucks_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Milwaukee Bucks",
+        "Brooklyn Nets",
+        "Utah Jazz",
+        "Boston Celtics"
+      ],
+      "correctAnswer": "1",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which NBA team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/nba/nba_Miami_Heat_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Golden State Warriors",
+        "Toronto Raptors",
+        "Miami Heat",
+        "Oklahoma City Thunder"
+      ],
+      "correctAnswer": "3",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which NBA team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/nba/nba_LosAngeles_Lakers_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Sacramento Kings",
+        "Phoenix Suns",
+        "Los Angeles Lakers",
+        "Los Angeles Clippers"
+      ],
+      "correctAnswer": "3",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which NBA team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/nba/nba_LosAngeles_Clippers_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Los Angeles Clippers",
+        "Los Angeles Lakers",
+        "Washington Wizards",
+        "Detroit Pistons"
+      ],
+      "correctAnswer": "1",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which NBA team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/nba/nba_GoldenState_Warriors_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Golden State Warriors",
+        "Denver Nuggets",
+        "Utah Jazz",
+        "Indiana Pacers"
+      ],
+      "correctAnswer": "1",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which NBA team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/nba/nba_Chicago_Bulls_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Philadelphia 76ers",
+        "Houston Rockets",
+        "Atlanta Hawks",
+        "Chicago Bulls"
+      ],
+      "correctAnswer": "4",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which NBA team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/nba/nba_Charlotte_Hornets_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Memphis Grizzlies",
+        "Minnesota Timberwolves",
+        "Charlotte Hornets",
+        "San Antonio Spurs"
+      ],
+      "correctAnswer": "3",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which NBA team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/nba/nba_Houston_Rokets_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Toronto Raptors",
+        "Houston Rockets",
+        "San Antonio Spurs",
+        "Cleveland Cavaliers"
+      ],
+      "correctAnswer": "2",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which NBA team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/nba/nba_Sacramento_Kings_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "New York Knicks",
+        "Phoenix Suns",
+        "Los Angeles Lakers",
+        "Sacramento Kings"
+      ],
+      "correctAnswer": "4",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    }
+  ]
+}

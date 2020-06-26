@@ -1,0 +1,246 @@
+{
+  "quizTitle": "MLB Kaleidoscope Quiz",
+  "quizSynopsis": "MLB Kaleidoscope Logo Quiz",
+  "questions": [
+    {
+      "question": "Which MLB team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/mlb/mlb_Toronto_BlueJays_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Toronto Blue Jays",
+        "Chicago Cubs",
+        "Philadelphia Phillies",
+        "Texas Rangers"
+      ],
+      "correctAnswer": "1",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which MLB team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/mlb/mlb_Baltimore_Orioles_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Houston Astros",
+        "Arizona Diamondbacks",
+        "New York Mets",
+        "Baltimore Orioles"
+      ],
+      "correctAnswer": "4",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which MLB team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/mlb/mlb_Atlanta_Braves_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Boston Red Sox",
+        "Arizona Diamondbacks",
+        "Atlanta Braves",
+        "Cleveland Indians"
+      ],
+      "correctAnswer": "3",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which MLB team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/mlb/mlb_TampaBay_Rays_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Detroit Tigers",
+        "Tampa Bay Rays",
+        "Seattle Mariners",
+        "Milwaukee Brewers"
+      ],
+      "correctAnswer": "2",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which MLB team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/mlb/mlb_Chicago_Cubs_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Texas Rangers",
+        "Toronto Blue Jays",
+        "Los Angeles Dodgers",
+        "Chicago Cubs"
+      ],
+      "correctAnswer": "4",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which MLB team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/mlb/mlb_StLouis_Cardinals_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Cleveland Indians",
+        "St. Louis Cardinals",
+        "Boston Red Sox",
+        "New York Yankees"
+      ],
+      "correctAnswer": "2",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which MLB team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/mlb/mlb_Cincinnati_Reds_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Cincinnati Reds",
+        "Washington Nationals",
+        "Los Angeles Angels",
+        "Cleveland Indians"
+      ],
+      "correctAnswer": "1",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which MLB team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/mlb/mlb_SanFrancisco_Giants_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "San Diego Padres",
+        "Pittsburgh Pirates",
+        "San Francisco Giants",
+        "Houston Astros"
+      ],
+      "correctAnswer": "3",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which MLB team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/mlb/mlb_KansasCity_Royals_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Colorado Rockies",
+        "Chicago White Sox",
+        "Minnesota Twins",
+        "Kansas City Royals"
+      ],
+      "correctAnswer": "4",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which MLB team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/mlb/mlb_Philadelphia_Phillies_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Philadelphia Phillies",
+        "New York Yankees",
+        "Texas Rangers",
+        "Washington Nationals"
+      ],
+      "correctAnswer": "1",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which MLB team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/mlb/mlb_LosAngeles_Angels_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Minnesota Twins",
+        "Oakland Athletics",
+        "Los Angeles Angels",
+        "Atlanta Braves"
+      ],
+      "correctAnswer": "3",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which MLB team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/mlb/mlb_NewYork_Yankees_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Texas Rangers",
+        "Los Angeles Dodgers",
+        "Philadelphia Phillies",
+        "New York Yankees"
+      ],
+      "correctAnswer": "4",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which MLB team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/mlb/mlb_LosAngeles_Dodgers_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Chicago Cubs",
+        "New York Yankees",
+        "Los Angeles Dodgers",
+        "Washington Nationals"
+      ],
+      "correctAnswer": "3",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which MLB team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/mlb/mlb_Miami_Marlins_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Tampa Bay Rays",
+        "Colorado Rockies",
+        "Seattle Mariners",
+        "Miami Marlins"
+      ],
+      "correctAnswer": "4",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which MLB team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/mlb/mlb_NewYork_Mets_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Pittsburgh Pirates",
+        "San Francisco Giants",
+        "Baltimore Orioles",
+        "New York Mets"
+      ],
+      "correctAnswer": "4",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    }
+  ]
+}

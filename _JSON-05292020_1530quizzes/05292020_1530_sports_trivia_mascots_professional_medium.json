@@ -1,0 +1,146 @@
+{
+  "quizTitle": "Pro Mascot Quiz - Medium",
+  "quizSynopsis": "NBA, NFL, NHL, and MLB Pro Team Mascot Quiz - Medium",
+  "questions": [
+    {
+      "question": "What NFL team has a mascot named \"Poe\"?",
+      "questionType": "photo",
+      "answers": [
+        "https://io-daily-software-cdn.web.app/staked/nfl/NFL_Carolina_Panthers.png", 
+        "https://io-daily-software-cdn.web.app/staked/nfl/NFL_NewEngland_Patriots.png", 
+        "https://io-daily-software-cdn.web.app/staked/nfl/NFL_Baltimore_Ravens.png", 
+        "https://io-daily-software-cdn.web.app/staked/nfl/NFL_GreenBay_Packers.png" 
+      ],
+      "correctAnswer": "3",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "What NBA team has a mascot named \"The Coyote\"?",
+      "questionType": "photo",
+      "answers": [
+        "https://io-daily-software-cdn.web.app/staked/nba/NBA_OklahomaCity_Thunder.png", 
+        "https://io-daily-software-cdn.web.app/staked/nba/NBA_Phoenix_Suns.png", 
+        "https://io-daily-software-cdn.web.app/staked/nba/NBA_Portland_TrailBlazers.png", 
+        "https://io-daily-software-cdn.web.app/staked/nba/NBA_SanAntonio_Spurs.png" 
+      ],
+      "correctAnswer": "4",
+      "messageForCorrectAnswer": "Nice shot!",
+      "messageForInorrectAnswer": "Better luck next time.",
+      "point": "10"
+    },
+    {
+      "question": "What NHL team has a mascot named \"Stormy\"?",
+      "questionType": "photo",
+      "answers": [
+        "https://io-daily-software-cdn.web.app/staked/nhl/NHL_Carolina_Hurricanes.png", 
+        "https://io-daily-software-cdn.web.app/staked/nhl/NHL_Colorado_Avalanche.png", 
+        "https://io-daily-software-cdn.web.app/staked/nhl/NHL_NewYork_Islanders.png", 
+        "https://io-daily-software-cdn.web.app/staked/nhl/NHL_Minnesota_Wild.png" 
+      ],
+      "correctAnswer": "1",
+      "messageForCorrectAnswer": "Nice shot!",
+      "messageForInorrectAnswer": "Better luck next time.",
+      "point": "10"
+    },
+    {
+      "question": "What NBA team has a mascot named \"Champ\"?",
+      "questionType": "photo",
+      "answers": [
+        "https://io-daily-software-cdn.web.app/staked/nba/NBA_Cleveland_Cavaliers.png", 
+        "https://io-daily-software-cdn.web.app/staked/nba/NBA_Dallas_Mavericks.png", 
+        "https://io-daily-software-cdn.web.app/staked/nba/NBA_GoldenState_Warriors.png", 
+        "https://io-daily-software-cdn.web.app/staked/nba/NBA_LosAngeles_Lakers.png" 
+      ],
+      "correctAnswer": "2",
+      "messageForCorrectAnswer": "Nice shot!",
+      "messageForInorrectAnswer": "Better luck next time.",
+      "point": "10"
+    },
+    {
+      "question": "What NFL team has a mascot named \"Rowdy\"?",
+      "questionType": "photo",
+      "answers": [
+        "https://io-daily-software-cdn.web.app/staked/nfl/NFL_Detroit_Lions.png", 
+        "https://io-daily-software-cdn.web.app/staked/nfl/NFL_Philadelphia_Eagles.png", 
+        "https://io-daily-software-cdn.web.app/staked/nfl/NFL_Denver_Broncos.png", 
+        "https://io-daily-software-cdn.web.app/staked/nfl/NFL_Dallas_Cowboys.png" 
+      ],
+      "correctAnswer": "4",
+      "messageForCorrectAnswer": "Nice shot!",
+      "messageForInorrectAnswer": "Better luck next time.",
+      "point": "10"
+    },
+    {
+      "question": "What NHL team has a mascot named \"Nordy\"?",
+      "questionType": "photo",
+      "answers": [
+        "https://io-daily-software-cdn.web.app/staked/nhl/NHL_Buffalo_Sabres.png", 
+        "https://io-daily-software-cdn.web.app/staked/nhl/NHL_Arizona_Coyotes.png", 
+        "https://io-daily-software-cdn.web.app/staked/nhl/NHL_Minnesota_Wild.png", 
+        "https://io-daily-software-cdn.web.app/staked/nhl/NHL_Florida_Panthers.png" 
+      ],
+      "correctAnswer": "3",
+      "messageForCorrectAnswer": "Nice shot!",
+      "messageForInorrectAnswer": "Better luck next time.",
+      "point": "10"
+    },
+    {
+      "question": "What MLB team has a mascot named \"Ace\"?",
+      "questionType": "photo",
+      "answers": [
+        "https://io-daily-software-cdn.web.app/staked/mlb/MLB_LosAngeles_Angels.png", 
+        "https://io-daily-software-cdn.web.app/staked/mlb/MLB_Toronto_BlueJays.png", 
+        "https://io-daily-software-cdn.web.app/staked/mlb/MLB_Texas_Rangers.png", 
+        "https://io-daily-software-cdn.web.app/staked/mlb/MLB_LosAngeles_Dodgers.png" 
+      ],
+      "correctAnswer": "2",
+      "messageForCorrectAnswer": "Nice shot!",
+      "messageForInorrectAnswer": "Better luck next time.",
+      "point": "10"
+    },
+    {
+      "question": "What NHL team has a mascot named \"Wild Wing\"?",
+      "questionType": "photo",
+      "answers": [
+        "https://io-daily-software-cdn.web.app/staked/nhl/NHL_NewYork_Islanders.png", 
+        "https://io-daily-software-cdn.web.app/staked/nhl/NHL_Pittsburgh_Penguins.png", 
+        "https://io-daily-software-cdn.web.app/staked/nhl/NHL_Anaheim_Ducks.png", 
+        "https://io-daily-software-cdn.web.app/staked/nhl/NHL_Minnesota_Wild.png" 
+      ],
+      "correctAnswer": "3",
+      "messageForCorrectAnswer": "Nice shot!",
+      "messageForInorrectAnswer": "Better luck next time.",
+      "point": "10"
+    },
+    {
+      "question": "What MLB team has a mascot named \"Wally the Green Monster\"?",
+      "questionType": "photo",
+      "answers": [
+        "https://io-daily-software-cdn.web.app/staked/mlb/MLB_Oakland_Athletics.png", 
+        "https://io-daily-software-cdn.web.app/staked/mlb/MLB_NewYork_Yankees.png", 
+        "https://io-daily-software-cdn.web.app/staked/mlb/MLB_LosAngeles_Angels.png", 
+        "https://io-daily-software-cdn.web.app/staked/mlb/MLB_Boston_RedSox.png" 
+      ],
+      "correctAnswer": "4",
+      "messageForCorrectAnswer": "Nice shot!",
+      "messageForInorrectAnswer": "Better luck next time.",
+      "point": "10"
+    },
+    {
+      "question": "What NFL team has a mascot named \"Blue\"?",
+      "questionType": "photo",
+      "answers": [
+        "https://io-daily-software-cdn.web.app/staked/nfl/NFL_NewYork_Giants.png", 
+        "https://io-daily-software-cdn.web.app/staked/nfl/NFL_Carolina_Panthers.png", 
+        "https://io-daily-software-cdn.web.app/staked/nfl/NFL_Indianapolis_Colts.png", 
+        "https://io-daily-software-cdn.web.app/staked/nfl/NFL_Miami_Dolphins.png" 
+      ],
+      "correctAnswer": "3",
+      "messageForCorrectAnswer": "Nice shot!",
+      "messageForInorrectAnswer": "Better luck next time.",
+      "point": "10"
+    },
+  ]
+}

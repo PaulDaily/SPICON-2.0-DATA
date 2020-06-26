@@ -1,0 +1,326 @@
+{
+  "quizTitle": "College Logo Quiz - Hard",
+  "quizSynopsis": "College Team Logo Quiz - Hard",
+  "questions": [
+    {
+      "question": "Which team has this logo?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_Wolford_Terriers.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Wofford",
+        "Boston University",
+        "St. Francis",
+        "Fresno State"
+      ],
+      "correctAnswer": "1",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which team has this logo?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_WeberState_Wildcats.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Arkansas State",
+        "Western Michigan",
+        "Western Carolina",
+        "Weber State"
+      ],
+      "correctAnswer": "4",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which team has this logo?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_SouthFlorida_Bulls.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Southern Utah",
+        "Marshall",
+        "South Florida",
+        "Hartford"
+      ],
+      "correctAnswer": "3",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which team has this logo?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_SouthAlabama_Jaguars.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Lafayette",
+        "Michigan Tech",
+        "Central Connecticut",
+        "South Alabama"
+      ],
+      "correctAnswer": "4",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which team has this logo?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_SMU_Mustangs.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Cal Poly SLO",
+        "McNeese State",
+        "Northern Iowa",
+        "Southern Methodist (SMU)"
+      ],
+      "correctAnswer": "4",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which team has this logo?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_SetonHall_Pirates.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "LeSalle",
+        "Seton Hall",
+        "James Madison",
+        "Florida Atlantic"
+      ],
+      "correctAnswer": "2",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which team has this logo?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_SanJoseState_Spartans.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "San Jose State",
+        "Minnesota State",
+        "Howard",
+        "Grambling State"
+      ],
+      "correctAnswer": "1",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which team has this logo?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_SacramentoState_Hornets.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Stetson",
+        "Sienna",
+        "Sacramento State",
+        "Sam Houston State"
+      ],
+      "correctAnswer": "3",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which team has this logo?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_Richmond_Spiders.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Colgate",
+        "Kennesaw State",
+        "Quinnipiac",
+        "Richmond"
+      ],
+      "correctAnswer": "4",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which team has this logo?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_Akron_Zips.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Akron",
+        "Xavier",
+        "Iona",
+        "Holy Cross"
+      ],
+      "correctAnswer": "1",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which team has this logo?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_AustinPeay_Governors.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Austin Peay",
+        "Kent State",
+        "Old Dominion",
+        "Fordham"
+      ],
+      "correctAnswer": "1",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which team has this logo?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_CentralMichigan_Chippewas.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "The Citadel",
+        "Chicago State",
+        "Chattanooga",
+        "Central Michigan"
+      ],
+      "correctAnswer": "4",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which team has this logo?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_DelawareState_Hornets.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Morehead State",
+        "Southern Mississippi",
+        "Delaware State",
+        "Alcorn State"
+      ],
+      "correctAnswer": "3",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which team has this logo?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_Elon_Phoenix.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Lehigh",
+        "Marist",
+        "Florida Gulf Coast",
+        "Elon"
+      ],
+      "correctAnswer": "4",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which team has this logo?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_IdahoState_Bengals.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "South Dakota State",
+        "Incarnate Word",
+        "Radford",
+        "Idaho State"
+      ],
+      "correctAnswer": "4",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which team has this logo?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_MiamiOhio_Redhawks.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Murray State",
+        "Miami Ohio",
+        "Marist",
+        "Maryland Eastern Shore"
+      ],
+      "correctAnswer": "2",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which team has this logo?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_MountStMarys_Moutaineers.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Mount St. Marys",
+        "Loyola Marymount",
+        "Merrimack",
+        "Northern Colorado"
+      ],
+      "correctAnswer": "1",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which team has this logo?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UAB_Blazers.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "North Alabama",
+        "Middle Tennessee",
+        "Alabama at Birmingham (UAB)",
+        "Georgia Southern"
+      ],
+      "correctAnswer": "3",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which team has this logo?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_Tulane_GreenWave.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Tulsa",
+        "Temple",
+        "Toledo",
+        "Tulane"
+      ],
+      "correctAnswer": "4",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which team has this logo?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_Stetson_Hatters.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Stetson",
+        "Sacramento State",
+        "Southern",
+        "Sacred Heart"
+      ],
+      "correctAnswer": "1",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    }
+  ]
+}

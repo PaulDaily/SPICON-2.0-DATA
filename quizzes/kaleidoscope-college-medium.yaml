@@ -1,0 +1,28 @@
+id: kaleidoscope-college-medium
+title: 'Kaleidoscope College Logo Quest Quiz - Medium'
+questions:
+    -
+        text: 'What NFL team has a mascot named "Poe"?'
+        options:
+            -
+                correct: false
+                value: 'NFL Carolina Panthers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nfl/NFL_Carolina_Panthers.png'
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'NFL New England Patriots'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nfl/NFL_NewEngland_Patriots.png'
+                detail: 'Better luck next time.'
+            -
+                correct: true
+                value: 'NFL Baltimore Ravens'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nfl/NFL_Baltimore_Ravens.png'
+                detail: 'Nice shot!'
+            -
+                correct: false
+                value: 'NFL Green Bay Packers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/nfl/NFL_GreenBay_Packers.png'
+                detail: 'Better luck next time.'
+description: 'Kaleidoscope College Logo Quest Quiz - Medium'
+topic: kaleidoscope-college

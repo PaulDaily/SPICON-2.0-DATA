@@ -1,0 +1,326 @@
+{
+  "quizTitle": "College Kaleidoscope Quiz - Hard",
+  "quizSynopsis": "College Kaleidoscope Logo Quiz - Hard",
+  "questions": [
+    {
+      "question": "Which college logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/ncaa/ncaa_Arizona_Wildcats_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Arizona Wildcats",
+        "South Alabama Jaguars"
+        "Louisiana Tech Bulldogs",
+        "Southern Methodist Mustangs (SMU)",
+      ],
+      "correctAnswer": "1",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which college logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/ncaa/ncaa_Army_BlackKnights_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "San Jose State Spartans",
+        "Central Florida Knights (UCF)",
+        "Wake Forest Demon Deacons",
+        "Army Black Knights"
+      ],
+      "correctAnswer": "4",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which college logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/ncaa/ncaa_Baylor_Bears_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Oregon Ducks",
+        "Michigan State Spartans",
+        "Baylor Bears",
+        "North Texas Mean Green"
+      ],
+      "correctAnswer": "3",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which college logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/ncaa/ncaa_BoiseState_Broncos_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Virginia Cavaliers",
+        "Wyoming Cowboys",
+        "Texas Arlington Mavericks",
+        "Boise State Broncos"
+      ],
+      "correctAnswer": "4",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which college logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/ncaa/ncaa_FloridaState_Seminoles_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Temple Owls",
+        "Maryland Terrapins",
+        "Xavier Muskateers",
+        "Florida State Seminoles"
+      ],
+      "correctAnswer": "4",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which college logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/ncaa/ncaa_Georgia_Bulldogs_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Butler Bulldogs",
+        "Georgia Bulldogs",
+        "Ohio State Buckeyes",
+        "Harvard Crimson"
+      ],
+      "correctAnswer": "2",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which college logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/ncaa/ncaa_GeorgiaTech_YellowJackets_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Gerogia Tech Yellow Jackets",
+        "Grambling State Tigers",
+        "Toledo Rockets",
+        "Delaware State Hornets"
+      ],
+      "correctAnswer": "1",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which college logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/ncaa/ncaa_Hawaii_Warriors_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Michigan State Spartans",
+        "Dartmouth Big Green",
+        "Hawaii Warriors",
+        "Tulane Green Wave"
+      ],
+      "correctAnswer": "3",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which college logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/ncaa/ncaa_Idaho_Vandals_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Texas State Bobcats",
+        "Vanderbilt Commodores",
+        "Wake Forest Demon Deacons",
+        "Idaho Vandals"
+      ],
+      "correctAnswer": "4",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which college logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/ncaa/ncaa_LouisianaTech_Bulldogs_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Louisiana Tech Bulldogs",
+        "Mississippi Rebels",
+        "Florida Atlantic Owls (FAU)",
+        "Fresno State Bulldogs"
+      ],
+      "correctAnswer": "1",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which college logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/ncaa/ncaa_Missouri_Tigers_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Missouri Tigers",
+        "Iowa Hawkeyes",
+        "Montana Grizzlies",
+        "Marquette Golden Eagles"
+      ],
+      "correctAnswer": "1",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which college logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/ncaa/ncaa_OregonState_Beavers_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Oklahome State Cowboys",
+        "Idaho State Bengals",
+        "Pacific Tigers",
+        "Oregon State Beavers"
+      ],
+      "correctAnswer": "4",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which college logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/ncaa/ncaa_Purdue_Boilermakers_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Idaho Vandals",
+        "Wake Forest Demon Deacons",
+        "Purdue Boilermakers",
+        "Central Florida Knights (UCF)"
+      ],
+      "correctAnswer": "3",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which college logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/ncaa/ncaa_SanDiegoState_Aztecs_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "New Mexico State Aggies",
+        "New Mexico Lobos",
+        "South Carolina Gamecocks",
+        "San Diego State Aztecs"
+      ],
+      "correctAnswer": "4",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which college logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/ncaa/ncaa_TCU_HornedFrogs_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Kansas State Wildcats",
+        "Furman Paladins",
+        "Texas Christian Horned Frogs (TCU)",
+        "East Carolina Pirates"
+      ],
+      "correctAnswer": "3",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which college logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/ncaa/ncaa_TexasA&M_Aggies_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "South Carolina Gamecocks",
+        "Texas A&M Aggies",
+        "Illinois Fighting Illini",
+        "Mississippi State Bulldogs"
+      ],
+      "correctAnswer": "2",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which college logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/ncaa/ncaa_Villanova_Wildcats_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Villanova Wildcats",
+        "Xavier Muskateers",
+        "Duke Blue Devils",
+        "Penn State Nittany Lions"
+      ],
+      "correctAnswer": "1",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which college logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/ncaa/ncaa_Washington_Huskies_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Northwestern Wildcats",
+        "Kansas State Wildcats",
+        "Washington Huskies",
+        "Northern Iowa Panthers"
+      ],
+      "correctAnswer": "3",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which college logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/ncaa/ncaa_WashingtonState_Cougars_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Utah Utes",
+        "Louisville Cardinals",
+        "North Carolina State Wolfpack",
+        "Washington State Cougars"
+      ],
+      "correctAnswer": "4",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which college logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/ncaa/ncaa_Wisconsin_Badgers_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Wisconsin Badgers",
+        "Rutgers Scarlet Knights",
+        "Houston Cougars",
+        "Indiana Hoosiers"
+      ],
+      "correctAnswer": "1",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    }
+  ]
+}

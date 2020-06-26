@@ -1,0 +1,246 @@
+{
+  "quizTitle": "NHL Kaleidoscope Quiz",
+  "quizSynopsis": "NHL Kaleidoscope Logo Quiz",
+  "questions": [
+    {
+      "question": "Which NHL team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/nhl/nhl_Anaheim_Ducks_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Anaheim Ducks",
+        "Ottowa Senators",
+        "Florida Panthers",
+        "Las Vegas Knights"
+      ],
+      "correctAnswer": "1",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which NHL team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/nhl/nhl_Winnipeg_Jets_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Washington Capitals",
+        "St. Louis Blues",
+        "New York Rangers",
+        "Winnipeg Jets"
+      ],
+      "correctAnswer": "4",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which NHL team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/nhl/nhl_Arizona_Coyotes_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Anaheim Ducks",
+        "Florida Panthers",
+        "Arizona Coyotes",
+        "Buffalo Sabres"
+      ],
+      "correctAnswer": "3",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which NHL team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/nhl/nhl_Vancouver_Canucks_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Toronto Maple Leafs",
+        "Tampa Bay Lightning",
+        "St. Louis Blues",
+        "Vancouver Canucks"
+      ],
+      "correctAnswer": "4",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which NHL team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/nhl/nhl_Carolina_Hurricanes_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Columbus Blue Jackets",
+        "Carolina Hurricanes",
+        "New York Rangers",
+        "Toronto Maple Leafs"
+      ],
+      "correctAnswer": "2",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which NHL team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/nhl/nhl_SanJose_Sharks_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Chicago Blackhawks",
+        "San Jose Sharks",
+        "Minnesota Wild",
+        "Los Angeles Kings"
+      ],
+      "correctAnswer": "2",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which NHL team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/nhl/nhl_Colorado_Avalanche_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Colorado Avalanche",
+        "Dallas Stars",
+        "Boston Bruins",
+        "Tennessee Panthers"
+      ],
+      "correctAnswer": "1",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which NHL team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/nhl/nhl_Dallas_Stars_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Minnesota Wild",
+        "New York Islanders",
+        "Dallas Stars",
+        "Philadelphia Flyers"
+      ],
+      "correctAnswer": "3",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which NHL team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/nhl/nhl_Edmonton_Oilers_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Calgary Flames",
+        "St. Louis Blues",
+        "Philadelphia Flyers",
+        "Edmonton Oilers"
+      ],
+      "correctAnswer": "4",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which NHL team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/nhl/nhl_Montreal_Canadiens_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Montreal Canadiens",
+        "Washington Capitals",
+        "New York Rangers",
+        "Detroit Redwings"
+      ],
+      "correctAnswer": "1",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which NHL team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/nhl/nhl_Calgary_Flames_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Calgary Flames",
+        "New Jersey Devils",
+        "Detroit Redwings",
+        "Minnesota Wild"
+      ],
+      "correctAnswer": "1",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which NHL team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/nhl/nhl_NewYork_Rangers_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Tampa Bay Lighting",
+        "Montreal Canadiens",
+        "New York Rangers",
+        "Washington Capitals"
+      ],
+      "correctAnswer": "3",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which NHL team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/nhl/nhl_Columbus_BlueJackets_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Washington Capitals",
+        "Columbus Blue Jackets",
+        "Detroit Redwings",
+        "New York Rangers"
+      ],
+      "correctAnswer": "2",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which NHL team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/nhl/nhl_Philadelphia_Fliers_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Los Angeles Kings",
+        "Boston Bruins",
+        "Pittsburgh Penguins",
+        "Philadelphia Flyers"
+      ],
+      "correctAnswer": "4",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    },
+    {
+      "question": "Which NHL team logo kaleidoscopes like this?",
+      "questionType": "text",
+      "questionPic": "https://io-daily-software-cdn.web.app/staked/nhl/nhl_Chicago_Blackhawks_kaleidoscope.png", 
+      "answerSelectionType": "single",
+      "answers": [
+        "Minnesota Wild",
+        "Chicago Blackhawks",
+        "Ottowa Senators",
+        "Florida Panthers"
+      ],
+      "correctAnswer": "2",
+      "messageForCorrectAnswer": "Correct",
+      "messageForInorrectAnswer": "Incorrect",
+      "point": "10"
+    }
+  ]
+}

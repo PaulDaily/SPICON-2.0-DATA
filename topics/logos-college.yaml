@@ -1,0 +1,16 @@
+quizzes:
+    -
+        title: College Team Logos Matchup - Easy
+        description: 'College Team Logos Matchup Quiz - Easy'
+        id: logos-college-easy
+    -
+        title: College Team Logos Matchup - Medium
+        description: 'College Team Logos Matchup Quiz - Medium'
+        id: logos-college-medium
+    -
+        title: College Team Logos Matchup - Hard
+        description: 'College Team Logos Matchup Quiz - Hard'
+        id: logos-college-hard
+id: logos-college
+img: logos-college.png
+title: College Team Logos Matchup

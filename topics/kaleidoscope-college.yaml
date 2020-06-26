@@ -1,0 +1,16 @@
+quizzes:
+    -
+        title: Kaleidoscope College Logo Quest - Easy
+        description: 'Kaleidoscope College Logo Quest Quiz - Easy'
+        id: kaleidoscope-college-easy
+    -
+        title: Kaleidoscope College Logo Quest - Medium
+        description: 'Kaleidoscope College Logo Quest Quiz - Medium'
+        id: kaleidoscope-college-medium
+    -
+        title: Kaleidoscope College Logo Quest - Hard
+        description: 'Kaleidoscope College Logo Quest Quiz - Hard'
+        id: kaleidoscope-college-hard
+id: kaleidoscope-college
+img: kaleidoscope-college.png
+title: Kaleidoscope College Logo Quest
