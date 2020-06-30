@@ -13,7 +13,13 @@ const quizzes = [
     'mascots-pro-hard',
     'mascots-college-easy',
     'mascots-college-medium',
-    'mascots-college-hard'
+    'mascots-college-hard',
+    'logos-pro-easy',
+    'logos-pro-medium',
+    'logos-pro-hard',
+    'kaleidoscope-college-easy',
+    'kaleidoscope-college-medium',
+    'kaleidoscope-college-hard'    
 ]
 
 
