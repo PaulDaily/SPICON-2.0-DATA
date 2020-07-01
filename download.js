@@ -26,7 +26,11 @@ const toFile = async(id) => {
 
 const topics = [
     'mascots-pro',
-    'mascots-college'
+    'mascots-college',
+    'logos-pro',
+    'logos-college',
+    'kaleidoscope-pro',
+    'kaleidoscope-college'
 ]
 
 

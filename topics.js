@@ -9,10 +9,13 @@ const db = admin.firestore();
 
 const topics = [
     'mascots-pro',
-    'mascots-college'
+    'mascots-college',
+    'logos-pro',
+    'logos-college',
+    'kaleidoscope-pro',
+    'kaleidoscope-college'
 ]
-
-
+git stayus
 const update = async(id) => {
 
     const json = yaml.load(`topics/${id}.yaml`);

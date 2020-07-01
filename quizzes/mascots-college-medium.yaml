@@ -2,234 +2,464 @@ id: mascots-college-medium
 title: 'College Mascot Quiz - Medium'
 questions:
     -
-        text: 'What NFL team has a mascot named "Poe"?'
+        text: 'Which team's mascot is a "Knight"?'
+        options:
+            -
+                correct: true
+                value: 'Central Florida'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_CentralFlorida_Knights.png'
+                detail: 'Correct!'
+            -
+                correct: false
+                value: 'Providence'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_Providence_Friars.png'
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'San Jose State'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_SanJoseState_Spartans.png'
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Stephen F Austin'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_StephenFAustin_Lumberjacks.png'
+                detail: 'Try again.'
+    -
+        text: 'Which team's mascot is NOT a "Bulldog"?'
         options:
             -
                 correct: false
-                value: 'NFL Carolina Panthers'
-                team_img: 'https://io-daily-software-cdn.web.app/staked/nfl/NFL_Carolina_Panthers.png'
+                value: 'Georgia'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Georgia_Bulldogs.png'
                 detail: 'Better luck next time.'
             -
                 correct: false
-                value: 'NFL New England Patriots'
-                team_img: 'https://io-daily-software-cdn.web.app/staked/nfl/NFL_NewEngland_Patriots.png'
+                value: 'Louisiana Tech'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_LouisianaTech_Bulldogs.png'
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Fresno State'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_FresnoState_Bulldogs.png'
                 detail: 'Better luck next time.'
             -
                 correct: true
-                value: 'NFL Baltimore Ravens'
-                team_img: 'https://io-daily-software-cdn.web.app/staked/nfl/NFL_Baltimore_Ravens.png'
-                detail: 'Nice shot!'
+                value: 'Mississippi'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Mississippi_Rebels.png'
+                detail: 'Got it!'
+    -
+        text: 'Which team's mascot is NOT an "Eagle"?'
+        options:
+            -
+                correct: true
+                value: 'Massachusettes'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Massachusetts_Minutemen.png'
+                detail: 'Way to go!'
             -
                 correct: false
-                value: 'NFL Green Bay Packers'
-                team_img: 'https://io-daily-software-cdn.web.app/staked/nfl/NFL_GreenBay_Packers.png'
+                value: 'Eastern Michigan'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_EasternMichigan_Eagles.png'
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Eastern Washington'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_EasternWashington_Eagles.png'
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'American'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_American_Eagles.png'
+                detail: 'Keep trying.'
+    -
+        text: 'Which team's mascot is NOT a "Wildcat"?'
+        options:
+            -
+                correct: false
+                value: 'Davidson'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Davidson_Wildcats.png'
+                detail: 'Better luck next time.'
+            -
+                correct: true
+                value: 'Indiana'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Indiana_Hoosiers.png'
+                detail: 'Excellent!'
+            -
+                correct: false
+                value: 'Northwestern'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Northwestern_Wildcats.png'
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Villanova'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Villanova_Wildcats.png'
                 detail: 'Better luck next time.'
     -
-        text: 'What NBA team has a mascot named "The Coyote"?'
+        text: 'Which team's mascot is NOT an "Aggie"?'
         options:
             -
                 correct: false
-                value: 'NBA Oklahoma City Thunder'
-                team_img: 'https://io-daily-software-cdn.web.app/staked/nba/NBA_OklahomaCity_Thunder.png'
-                detail: 'Better luck next time.'
+                value: 'California at Davis'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_CaliforniaDavis_Aggies.png'
+                detail: 'Try again.'
             -
                 correct: false
-                value: 'NBA Phoenix Suns'
-                team_img: 'https://io-daily-software-cdn.web.app/staked/nba/NBA_Phoenix_Suns.png'
-                detail: 'Better luck next time.'
+                value: 'New Mexico State'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_NewMexicoState_Aggies.png'
+                detail: 'Try again.'
             -
                 correct: false
-                value: 'NBA Portland Trail Blazers'
-                team_img: 'https://io-daily-software-cdn.web.app/staked/nba/NBA_Portland_TrailBlazers.png'
-                detail: 'Better luck next time.'
+                value: 'North Carolina A&T'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_NorthCarolinaA&T_Aggies.png'
+                detail: 'Try again.'
             -
                 correct: true
-                value: 'NBA SanAntonio Spurs'
-                team_img: 'https://io-daily-software-cdn.web.app/staked/nba/NBA_SanAntonio_Spurs.png'
-                detail: 'Nice shot!'
+                value: 'Marquette'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_Marquette_GoldenEagles.png'
+                detail: 'That's Right!'
     -
-        text: 'What NHL team has a mascot named "Stormy"?'
+        text: 'Which team's mascot is NOT a type of bear?'
+        options:
+            -
+                correct: false
+                value: 'Mercer'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Mercer_Bears.png'
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Baylor'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Baylor_Bears.png'
+                detail: 'Keep trying.'
+            -
+                correct: true
+                value: 'Buffalo'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Buffalo_Bulls.png'
+                detail: 'Nice job!'
+            -
+                correct: false
+                value: 'California (UC Berkeley)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_California_GoldenBears.png'
+                detail: 'Keep trying.'
+    -
+        text: 'Which team's mascot is NOT a "Cougar"?'
+        options:
+            -
+                correct: false
+                value: 'College of Charleston'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_CollegeofCharleston_Cougars.png'
+                detail: 'Oh no.'
+            -
+                correct: true
+                value: 'Kentucky'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Kentucky_Wildcats.png'
+                detail: 'Correct!'
+            -
+                correct: false
+                value: 'Houston'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Houston_Cougars.png'
+                detail: 'Oh no.'
+            -
+                correct: false
+                value: 'Brigham Young (BYU)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_BrighamYoung_Cougars.png'
+                detail: 'Oh no.'
+    -
+        text: 'Which team's mascot is NOT a "Tiger"?'
+        options:
+            -
+                correct: false
+                value: 'Auburn'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Auburn_Tigers.png'
+                detail: 'Sorry no.'
+            -
+                correct: true
+                value: 'Mississippi State'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_MississippiState_Bulldogs.png'
+                detail: 'Well done!'
+            -
+                correct: false
+                value: 'Louisiana State (LSU)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_LSU_Tigers.png'
+                detail: 'Sorry no.'
+            -
+                correct: false
+                value: 'Grambling State'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_GramblingState_Tigers.png'
+                detail: 'Sorry no.'
+    -
+        text: 'Which team's mascot is NOT a "Spartan"?'
+        options:
+            -
+                correct: false
+                value: 'Michigan State'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_MichiganState_Spartans.png'
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'San Jose State'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_SanJoseState_Spartans.png'
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Upstate'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_USCUpstate_Spartans.png'
+                detail: 'Try again.'
+            -
+                correct: true
+                value: 'Army'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Army_BlackKnights.png'
+                detail: 'Got it!'
+    -
+        text: 'Which team's mascot is a "Wave"?'
+        options:
+            -
+                correct: false
+                value: 'Portland State'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_PortlandState_Vikings.png'
+                detail: 'Not right.'
+            -
+                correct: false
+                value: 'Rhode Island'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_RhodeIsland_Rams.png'
+                detail: 'Not right.'
+            -
+                correct: true
+                value: 'Pepperdine'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Pepperdine_Waves.png'
+                detail: 'Correct!'
+            -
+                correct: false
+                value: 'Rutgers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Rutgers_ScarletKnights.png'
+                detail: 'Not right.'
+    -
+        text: 'Which team's mascot is a "Mountaineer"?'
         options:
             -
                 correct: true
-                value: 'NHL Carolina Hurricanes'
-                team_img: 'https://io-daily-software-cdn.web.app/staked/nhl/NHL_Carolina_Hurricanes.png'
-                detail: 'Nice shot!'
+                value: 'West Virginia'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_WestVirginia_Mountaineers.png'
+                detail: 'Correct!'
             -
                 correct: false
-                value: 'NHL Colorado Avalanche'
-                team_img: 'https://io-daily-software-cdn.web.app/staked/nhl/NHL_Colorado_Avalanche.png'
+                value: 'New Mexico State'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_NewMexicoState_Aggies.png'
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Texas at Rio Grande Valley (UTRGV)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_UTRGV_Vaqueros.png'
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Sacred Heart'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_SacredHeart_Pioneers.png'
+                detail: 'Try again.'
+    -
+        text: 'Which team's mascot is a "Demon Deacon"?'
+        options:
+            -
+                correct: false
+                value: 'Duke'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Duke_BlueDevils.png'
                 detail: 'Better luck next time.'
             -
                 correct: false
-                value: 'NHL New York Islanders'
-                team_img: 'https://io-daily-software-cdn.web.app/staked/nhl/NHL_NewYork_Islanders.png'
+                value: 'North Carolina'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_NorthCarolina_Tarheels.png'
                 detail: 'Better luck next time.'
             -
                 correct: false
-                value: 'NHL Minnesota Wild'
-                team_img: 'https://io-daily-software-cdn.web.app/staked/nhl/NHL_Minnesota_Wild.png'
+                value: 'Northwestern State'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_NorthwesternState_Demons.png'
+                detail: 'Better luck next time.'
+            -
+                correct: true
+                value: 'Wake Forest'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_WakeForest_DemonDeacons.png'
+                detail: 'Got it!'
+    -
+        text: 'Which team's mascot is a "Hokie"?'
+        options:
+            -
+                correct: true
+                value: 'Virginia Tech'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_VirginiaTech_Hokies.png'
+                detail: 'Way to go!'
+            -
+                correct: false
+                value: 'Virginia Commonwealth'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_VirginiaCommonwealth_Rams.png'
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Hampton'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_Hampton_Pirates.png'
+                detail: 'Keep trying.'
+            -
+                correct: false
+                value: 'Hartford'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Hartford_Hawks.png'
+                detail: 'Keep trying.'
+    -
+        text: 'Which team's mascot is a "Cavalier"?'
+        options:
+            -
+                correct: false
+                value: 'Villanova'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Villanova_Wildcats.png'
+                detail: 'Better luck next time.'
+            -
+                correct: true
+                value: 'Virginia'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Virginia_Caveliers.png'
+                detail: 'Excellent!'
+            -
+                correct: false
+                value: 'New Orleans'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_NewOrleans_Privateers.png'
+                detail: 'Better luck next time.'
+            -
+                correct: false
+                value: 'Vanderbilt'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Vanderbilt_Commodores.png'
                 detail: 'Better luck next time.'
     -
-        text: 'What NBA team has a mascot named "Champ"?'
+        text: 'Which team's mascot is a "Commodore"?'
         options:
             -
                 correct: false
-                value: 'NBA Cleveland Cavaliers'
-                team_img: 'https://io-daily-software-cdn.web.app/staked/nba/NBA_Cleveland_Cavaliers.png'
-                detail: 'Better luck next time.'
+                value: 'Vermont'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Vermont_Catamounts.png'
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Virginia Military Institute (VMI)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_VMI_Keydets.png'
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Villanova'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Villanova_Wildcats.png'
+                detail: 'Try again.'
             -
                 correct: true
-                value: 'NBA Dallas Mavericks'
-                team_img: 'https://io-daily-software-cdn.web.app/staked/nba/NBA_Dallas_Mavericks.png'
-                detail: 'Nice shot!'
-            -
-                correct: false
-                value: 'NBA Golden State Warriors'
-                team_img: 'https://io-daily-software-cdn.web.app/staked/nba/NBA_GoldenState_Warriors.png'
-                detail: 'Better luck next time.'
-            -
-                correct: false
-                value: 'NBA Los Angeles Lakers'
-                team_img: 'https://io-daily-software-cdn.web.app/staked/nba/NBA_LosAngeles_Lakers.png'
-                detail: 'Better luck next time.'
+                value: 'VAnderbilt'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Vanderbilt_Commodores.png'
+                detail: 'That's Right!'
     -
-        text: 'What NFL team has a mascot named "Rowdy"?'
+        text: 'Which team's mascot is a "Red Raider"?'
         options:
             -
                 correct: false
-                value: 'NFL Detroit Lions'
-                team_img: 'https://io-daily-software-cdn.web.app/staked/nfl/NFL_Detroit_Lions.png'
-                detail: 'Better luck next time.'
+                value: 'Oklahoma'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Oklahoma_Sooners.png'
+                detail: 'Keep trying.'
             -
                 correct: false
-                value: 'NFL Philadelphia Eagles'
-                team_img: 'https://io-daily-software-cdn.web.app/staked/nfl/NFL_Philadelphia_Eagles.png'
-                detail: 'Better luck next time.'
-            -
-                correct: false
-                value: 'NFL Denver Broncos'
-                team_img: 'https://io-daily-software-cdn.web.app/staked/nfl/NFL_Denver_Broncos.png'
-                detail: 'Better luck next time.'
+                value: 'Rutgers'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Rutgers_ScarletKnights.png'
+                detail: 'Keep trying.'
             -
                 correct: true
-                value: 'NFL Dallas Cowboys'
-                team_img: 'https://io-daily-software-cdn.web.app/staked/nfl/NFL_Dallas_Cowboys.png'
-                detail: 'Nice shot!'
+                value: 'Texas Tech'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_TexasTech_RedRaiders.png'
+                detail: 'Nice job!'
+            -
+                correct: false
+                value: 'Sacred Heart'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa_modified/NCAA_SacredHeart_Pioneers.png'
+                detail: 'Keep trying.'
     -
-        text: 'What NHL team has a mascot named "Nordy"?'
+        text: 'Which team's mascot is an "Orange"?'
         options:
             -
                 correct: false
-                value: 'NHL Buffalo Sabres'
-                team_img: 'https://io-daily-software-cdn.web.app/staked/nhl/NHL_Buffalo_Sabres.png'
-                detail: 'Better luck next time.'
-            -
-                correct: false
-                value: 'NHL Arizona Coyotes'
-                team_img: 'https://io-daily-software-cdn.web.app/staked/nhl/NHL_Arizona_Coyotes.png'
-                detail: 'Better luck next time.'
+                value: 'Mercer'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Mercer_Bears.png'
+                detail: 'Oh no.'
             -
                 correct: true
-                value: 'NHL Minnesota Wild'
-                team_img: 'https://io-daily-software-cdn.web.app/staked/nhl/NHL_Minnesota_Wild.png'
-                detail: 'Nice shot!'
+                value: 'Syracuse'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Syracuse_Orange.png'
+                detail: 'Correct!'
             -
                 correct: false
-                value: 'NHL Florida Panthers'
-                team_img: 'https://io-daily-software-cdn.web.app/staked/nhl/NHL_Florida_Panthers.png'
-                detail: 'Better luck next time.'
+                value: 'Clemson'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Clemson_Tigers.png'
+                detail: 'Oh no.'
+            -
+                correct: false
+                value: 'Illinois'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Illinois_FightingIllini.png'
+                detail: 'Oh no.'
     -
-        text: 'What MLB team has a mascot named "Ace"?'
+        text: 'Which team's mascot are "Red Storm"?'
         options:
             -
                 correct: false
-                value: 'MLB Los Angeles Angels'
-                team_img: 'https://io-daily-software-cdn.web.app/staked/mlb/MLB_LosAngeles_Angels.png'
-                detail: 'Better luck next time.'
+                value: 'North Carolina State'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_NorthCarolinaState_Wolfpack.png'
+                detail: 'Sorry no.'
             -
                 correct: true
-                value: 'MLB Toronto Blue Jays'
-                team_img: 'https://io-daily-software-cdn.web.app/staked/mlb/MLB_Toronto_BlueJays.png'
-                detail: 'Nice shot!'
+                value: 'St. Johns'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_StJohns_RedStorm.png'
+                detail: 'Well done!'
             -
                 correct: false
-                value: 'MLB Texas Rangers'
-                team_img: 'https://io-daily-software-cdn.web.app/staked/mlb/MLB_Texas_Rangers.png'
-                detail: 'Better luck next time.'
+                value: 'Nebraska'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Nebraska_Cornhuskers.png'
+                detail: 'Sorry no.'
             -
                 correct: false
-                value: 'MLB Los Angeles Dodgers'
-                team_img: 'https://io-daily-software-cdn.web.app/staked/mlb/MLB_LosAngeles_Dodgers.png'
-                detail: 'Better luck next time.'
+                value: 'Mississippi'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Mississippi_Rebels.png'
+                detail: 'Sorry no.'
     -
-        text: 'What NHL team has a mascot named "Wild Wing"?'
+        text: 'Which team's mascot is an "Owl"?'
         options:
             -
                 correct: false
-                value: 'NHL New York Islanders'
-                team_img: 'https://io-daily-software-cdn.web.app/staked/nhl/NHL_NewYork_Islanders.png'
-                detail: 'Better luck next time.'
+                value: 'Rensselaer Polytechnic Institute (RPI)'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_RPI_Engineers.png'
+                detail: 'Try again.'
             -
                 correct: false
-                value: 'NHL Pittsburgh Penguins'
-                team_img: 'https://io-daily-software-cdn.web.app/staked/nhl/NHL_Pittsburgh_Penguins.png'
-                detail: 'Better luck next time.'
+                value: 'Nebraska at Omaha'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_NebraskaOmaha_Mavericks.png'
+                detail: 'Try again.'
+            -
+                correct: false
+                value: 'Radford'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Radford_Highlanders.png'
+                detail: 'Try again.'
             -
                 correct: true
-                value: 'NHL Anaheim Ducks'
-                team_img: 'https://io-daily-software-cdn.web.app/staked/nhl/NHL_Anaheim_Ducks.png'
-                detail: 'Nice shot!'
-            -
-                correct: false
-                value: 'NHL Minnesota Wild'
-                team_img: 'https://io-daily-software-cdn.web.app/staked/nhl/NHL_Minnesota_Wild.png'
-                detail: 'Better luck next time.'
+                value: 'Rice'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Rice_Owls.png'
+                detail: 'Got it!'
     -
-        text: 'What MLB team has a mascot named "Wally the Green Monster"?'
+        text: 'Which team's mascot is a "Boilermaker"?'
         options:
             -
                 correct: false
-                value: 'MLB Oakland Athletics'
-                team_img: 'https://io-daily-software-cdn.web.app/staked/mlb/MLB_Oakland_Athletics.png'
-                detail: 'Better luck next time.'
+                value: 'Baylor'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Baylor_Bears.png'
+                detail: 'Not right.'
             -
                 correct: false
-                value: 'MLB New York Yankees'
-                team_img: 'https://io-daily-software-cdn.web.app/staked/mlb/MLB_NewYork_Yankees.png'
-                detail: 'Better luck next time.'
-            -
-                correct: false
-                value: 'MLB Los Angeles Angels'
-                team_img: 'https://io-daily-software-cdn.web.app/staked/mlb/MLB_LosAngeles_Angels.png'
-                detail: 'Better luck next time.'
+                value: 'Bentley'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Bentley_Falcons.png'
+                detail: 'Not right.'
             -
                 correct: true
-                value: 'MLB Boston Red Sox'
-                team_img: 'https://io-daily-software-cdn.web.app/staked/mlb/MLB_Boston_RedSox.png'
-                detail: 'Nice shot!'
-    -
-        text: 'What NFL team has a mascot named "Blue"?'
-        options:
+                value: 'Purdue'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Purdue_Boilermakers.png'
+                detail: 'Correct!'
             -
                 correct: false
-                value: 'NFL New York Giants'
-                team_img: 'https://io-daily-software-cdn.web.app/staked/nfl/NFL_NewYork_Giants.png'
-                detail: 'Better luck next time.'
-            -
-                correct: false
-                value: 'NFL Carolina Panthers'
-                team_img: 'https://io-daily-software-cdn.web.app/staked/nfl/NFL_Carolina_Panthers.png'
-                detail: 'Better luck next time.'
-            -
-                correct: true
-                value: 'NFL Indianapolis Colts'
-                team_img: 'https://io-daily-software-cdn.web.app/staked/nfl/NFL_Indianapolis_Colts.png'
-                detail: 'Nice shot!'
-            -
-                correct: false
-                value: 'NFL Miami Dolphins'
-                team_img: 'https://io-daily-software-cdn.web.app/staked/nfl/NFL_Miami_Dolphins.png'
-                detail: 'Better luck next time.'
+                value: 'Portland'
+                team_img: 'https://io-daily-software-cdn.web.app/staked/ncaa/NCAA_Portland_Pilots.png'
+                detail: 'Not right.'
 description: 'College Team Mascot Quiz - Medium'
 topic: mascots-college
